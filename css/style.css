@@ -1,0 +1,23 @@
+body{
+
+	background-image:url('https://wallpaperaccess.com/full/461236.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+
+  }
+
+
+td:hover{
+
+		background-image:url('../images/bird.gif');
+		background-size:cover;
+  
+        }
+
+
+table,th,td{
+		border:2px ;
+		border-collapse:collapse;
+		padding:30px;
+           }
+
